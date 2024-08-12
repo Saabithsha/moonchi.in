@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+.paragraph{
+    font-size: 16px;
+    color: black;
+    margin-top: 25px;
+    margin-left: -250px;
+}
+.contents{
+    width: 100;
+    padding: -10px;
+    padding-left: 950px;
+    font-size: 15px;
+   }
+.paragraph2{
+    margin-left: 10PX;
+}
+.paragraph3{
+    margin-left: 10PX;
+}
+.paragraph4{
+    margin-left: 10PX;
+}
+.paragraph5{
+    margin-left: 10PX;
+}  
+.img1{
+    width:353px;
+    height:px;
+    margin-top: 225px;
+    margin-left: 90px;
+}
+.img2{
+    position: absolute;
+    width: 350px;
+    height: 230px;
+    margin-top: -444px;
+    margin-left: 470px;
+}
+.img3{
+    width: 367px;
+    height: px;
+    margin-top: -500px;
+    margin-left: 850px;
+}
+.img4{
+    width:353px;
+    height:450px;
+    margin-top: -000px;
+    margin-left: 90px;
+
+}
+.img5{
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    margin-top: -650px;
+    margin-left:470px;
+}
+.img6{
+    position: absolute;
+    width: 349px;
+    height: 220px;
+    margin-top: -125px;
+    margin-left: 470px;
+
+}
+.img7{
+    position: absolute;
+    width: 354px;
+    height: 220px;
+    margin-top: 25px;
+    margin-left: 94px;
+
+}
+.img8{
+    position: absolute;
+    width: 356px;
+    height: 220px;
+    margin-top: 280px;
+    margin-left: 94px;
+
+}
+.p{
+    color: black;
+    margin-top: 10px;
+    margin-left: 500px;
+    
+}
+.img9{
+    position: absolute;
+    width: 350px;
+    height: 230px;
+    margin-top: 129px;
+    margin-left: 470px;
+}
+.img10{
+    width: 367px;
+    height: px;
+    margin-top: -430px;
+    margin-left: 850px;
+}
+.img11{
+    width: 367px;
+    height: px;
+    margin-top: 20px;
+    margin-left: 850px;
+}
+.img12{
+    width: 367px;
+    height: px;
+    margin-top: 20px;
+    margin-left: 850px;
+}
+.img13{
+    position: absolute;
+    width: 355px;
+    height: 215px;
+    margin-top: -615px;
+    margin-left: 470px;
+
+}
+.img14{
+    position: absolute;
+    width: 354px;
+    height: px;
+    margin-top: -460px;
+    margin-left: 90px;
+}
+.myDiv {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 200px;
+    margin-top: 100px;
+    
+  }
+  .inst1{
+    position: absolute;
+    width: 25px;
+    height: px;
+    margin-left: 107px;
+
+  }
+  .inst2{
+    position: absolute;
+    width: 25px;
+    height: px;
+    margin-left: 135px;
+  }
+  .mn0{
+    position: absolute;
+    font-size: 15px;
+    width: px;
+    height: px;
+    margin-left: 270px;
+    margin-top: 10px;
+  }
+  .sad{
+    font-size: 13px;
+    margin-top: -88px;
+    margin-left: 850px;
+    
+  }
+  .heding{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 100px;
+    margin-left: 90px; 
+    margin-bottom: -100px;
+    
+  }
+  .moon{
+    font-size: 30px;
+    
+  }
+  .mood{
+    width: 240px;
+    height: px;
+    border-color:black;
+    border-style: solid;
+    background-color:white;
+    margin-left: 465px;
+    margin-top: 20px;
+  }
+  .m1{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-style: initial;
+  }
+  .dry{
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    background-color:black;
+    margin-left: 500px;
+    margin-top: 20px;
+
+  }
+  .dd1{
+    font-size: 15px;
+    color: ivory;
+    margin-left: 40px;
+    margin-top: px;
+    
+  }
+
